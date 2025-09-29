@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+area_calc/__init__.py
+area_calc/main.py
+area_calc.egg-info/PKG-INFO
+area_calc.egg-info/SOURCES.txt
+area_calc.egg-info/dependency_links.txt
+area_calc.egg-info/top_level.txt
+tests/test_functions.py
