@@ -54,3 +54,5 @@ def calculate_shape_area(shape_obj):
     if isinstance(shape_obj, Shape):
         return shape_obj.area()
     raise TypeError('Объект должен быть экземпляром класса Shape')
+
+
